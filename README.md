@@ -1,7 +1,7 @@
 # Project README Template
 
 ## Project Title
-Ampcontrol - A Comprehensive Notebook for ... *(Provide a brief title and concise description of your project)*
+EV 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,7 +12,6 @@ Ampcontrol - A Comprehensive Notebook for ... *(Provide a brief title and concis
 6. [Data Sources](#data-sources)
 7. [Project Structure](#project-structure)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
