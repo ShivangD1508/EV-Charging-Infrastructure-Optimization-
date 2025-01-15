@@ -1,6 +1,3 @@
-# Project README
-
-## Project Title
 EV Charging Infrastructure Optimization
 
 ## Table of Contents
